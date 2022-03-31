@@ -1,0 +1,13 @@
+{
+  "model_time_in_ms": 0,
+  "release": {
+    "harness_version": "0.1",
+    "model_version": "621dde1b81eafb50c6d31b9b",
+    "model_version_number": 1
+  },
+  "request_id": "WU6JFV9QCK7TYSNH",
+  "result": {
+    "a_random_number": 31.29434279729587
+  },
+  "timing": 0.013828277587890625
+}
